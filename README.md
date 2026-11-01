@@ -60,7 +60,7 @@ git push
 
 ## * Это компиляция класс(а-ов) в байт-код
 ```
-javac -encoding UTF-8 <ИМЯ_КЛАССА>
+javac -encoding UTF-8 <ИМЯ_КЛАССА>.java
 
 javac -d bin -encoding UTF-8 *.java
 ```
